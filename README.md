@@ -1,10 +1,12 @@
 # Beyond Arduino Speak
-Dig down below the Arduino-friendly macros to the underlying C++ code
+Dig down below the Arduino-friendly macros to the underlying C++ code  
 
-### JLCPCB Prototype for $2 & Free SMT assembly: https://jlcpcb.com/
-#### Free coupons for SMT assembly - just pay for the components
+### JLCPCB Prototype for $2 & Free SMT assembly: https://jlcpcb.com/  
+#### Free coupons for SMT assembly - just pay for the components  
 
+Trying to cram Arduino code into a Tiny13/85 is quite a challenge so today we look at ways to drop down below the Arduino language and manipulate the port on the Tiny13 directly and what the equivalent code is using an Arduino. It's pretty straightforward and gets you closer to the "Bare Metal" programming.  
 
+Additionally I have a small ATTinyXX programming board that fits onto a breadboard and connects to an Arduino ICSP programmer, joy!  
 
 ### List of all my videos
 (Special thanks to Michael Kurt Vogel for compiling this)  
