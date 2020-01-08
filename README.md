@@ -2,7 +2,7 @@
 Dig down below the Arduino-friendly macros to the underlying C++ code  
 
 ### See https://www.youtube.com/ralphbacon video #175  
-Direct Link to video: https://youtu.be/Q4Bkf4NYYbg  
+Direct Link to video: https://youtu.be/AwprzjW1q0k  
 
 ### JLCPCB Prototype for $2 & Free SMT assembly: https://jlcpcb.com/  
 #### Free coupons for SMT assembly - just pay for the components  
