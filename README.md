@@ -7,6 +7,8 @@ Direct Link to video: https://youtu.be/AwprzjW1q0k
 ### JLCPCB Prototype for $2 & Free SMT assembly: https://jlcpcb.com/  
 #### Free coupons for SMT assembly - just pay for the components  
 
+<img src="/images/PCB top.jpg" width="15%" align="left">
+
 Trying to cram Arduino code into a Tiny13/85 is quite a challenge so today we look at ways to drop down below the Arduino language and manipulate the port on the Tiny13 directly and what the equivalent code is using an Arduino. It's pretty straightforward and gets you closer to the "Bare Metal" programming.  
 
 Additionally I have a small ATTinyXX programming board that fits onto a breadboard and connects to an Arduino ICSP programmer, joy!  
